@@ -5,7 +5,7 @@
 #### Available modes
 ##### Number
 - `data-max-height=“50”`
-- 50px will be set as limit-height)
+- 50px will be set as limit-height
 ##### css
 - `data-max-height=“css”`
 - max-height property set in css will be set as limit-height
