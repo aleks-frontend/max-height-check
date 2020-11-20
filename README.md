@@ -19,5 +19,5 @@ so their heights will be subtracted from parent’s height
 #### Additional options
 ##### maxHeightUnit
 - `data-max-height-unit=“rem”`
-- if user wants to set max-height is some other unit rather than px, just add additional `data-max-height-unit`
+- if user wants to set max-height in some other unit rather than px, just add additional `data-max-height-unit`
 attribute and pass ‘rem’ or ‘pt’ as value.
