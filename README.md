@@ -9,6 +9,7 @@
 ##### css
 - `data-max-height=“css”`
 - max-height property set in css will be set as limit-height
+Note: Don't use min-height when settings this way!
 - this is very useful with templates that have multiple variations and can be combined with css media queries.
 ##### dynamic
 - `data-max-height=“dynamic”`
